@@ -1,0 +1,7 @@
+Record=TopLevelDocument|FileName=Main.SchDoc|SheetNumber=2
+Record=SheetSymbol|SourceDocument=Main.SchDoc|Designator=CH_1|SchDesignator=CH_1|FileName=Isolator.SchDoc|SheetNumber=4|SymbolType=Normal|RawFileName=Isolator.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Main.SchDoc|Designator=CH_2|SchDesignator=CH_2|FileName=Isolator.SchDoc|SheetNumber=4|SymbolType=Normal|RawFileName=Isolator.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Main.SchDoc|Designator=RS422|SchDesignator=RS422|FileName=RS485.SchDoc|SheetNumber=5|SymbolType=Normal|RawFileName=RS485.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Main.SchDoc|Designator=RS485|SchDesignator=RS485|FileName=RS485.SchDoc|SheetNumber=5|SymbolType=Normal|RawFileName=RS485.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Main.SchDoc|Designator=USB To UART|SchDesignator=USB To UART|FileName=UsbToUart.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=UsbToUart.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=NoMainPathDocument|SourceDocument=Main.SchDoc|FileName=Header.SchDoc|SheetNumber=1

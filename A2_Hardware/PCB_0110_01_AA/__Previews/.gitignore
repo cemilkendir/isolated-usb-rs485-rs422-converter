@@ -1,0 +1,20 @@
+# Altium generated files
+History/
+Project Logs for */
+Project Outputs for */
+Generated/
+__Previews/
+
+*.PrjPcbStructure
+*.PcbDocPreview
+*.SchDocPreview
+*.LOG
+*.log
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Temporary files
+~*
+*.tmp
