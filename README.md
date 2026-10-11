@@ -29,7 +29,7 @@ The hardware was designed with industrial communication environments and EMC rob
 
 https://github.com/cemilkendir/blob/main/isolated-usb-rs485-rs422-converter/A2_Hardware/PCB_0110_01_AA/out/50_pic/001_PCB.PNG
 
-<img src="https://github.com/cemilkendir/blob/main/isolated-usb-rs485-rs422-converter/A2_Hardware/PCB_0110_01_AA/out/50_pic/001_PCB.PNG" width="800px"/> 
+<img src="https://github.com/cemilkendir/isolated-usb-rs485-rs422-converter/blob/main/A2_Hardware/PCB_0110_01_AA/out/50_pic/001_PCB.PNG" width="800px"/> 
 
 <img src="https://github.com/cemilkendir/isolated-usb-rs485-rs422-converter/A2_Hardware/PCB_0110_01_AA/out/50_pic/002_PCB.PNG" width="800px"/> 
 
