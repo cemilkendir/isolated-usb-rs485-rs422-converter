@@ -1,0 +1,10 @@
+Output: Test Point Report
+Type  : Test Points
+From  : PCB Document [PRJ_0110_AAAA.PcbDoc]
+   Generated File[Gerber_PRJ_01101_01_AA.ipc]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 00:37:38 On 12.10.2026

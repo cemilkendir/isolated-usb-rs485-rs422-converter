@@ -1,0 +1,4 @@
+Layer Pairs Export File for PCB: C:\WORKS\Project\isolated-usb-rs485-rs422-converter\A2_Hardware\PCB_0110_01_AA\pcb\PRJ_0110_AAAA.PcbDoc
+LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=gerber_prj_01101_01_aa-roundholes-plated.txt|DrillLayers=gtl,g1,g2,gbl
+LayersSetName=Top_Bot_Plated_Slot_Holes|DrillFile=gerber_prj_01101_01_aa-slotholes-plated.txt|DrillLayers=gtl,g1,g2,gbl
+LayersSetName=Top_Bot_NonPlated_Thru_Holes|DrillFile=gerber_prj_01101_01_aa-roundholes-nonplated.txt|DrillLayers=gtl,g1,g2,gbl

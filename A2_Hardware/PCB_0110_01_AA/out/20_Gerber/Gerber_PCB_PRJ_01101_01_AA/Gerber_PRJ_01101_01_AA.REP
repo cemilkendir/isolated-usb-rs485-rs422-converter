@@ -1,0 +1,173 @@
+Error Report for  - Users\cemil\AppData\Local\Temp\QjzD6A3.tmp
+12.10.2026 00:37:37
+
+Net ___RS485_RS422_N with allias 1 too long.
+Net RS485_EN_ISO_RS485 with allias 10 too long.
+Net RS485_RX_ISO_RS422 with allias 11 too long.
+Net RS485_RX_ISO_RS485 with allias 12 too long.
+Net RS485_TX_ISO_RS422 with allias 13 too long.
+Net RS485_TX_ISO_RS485 with allias 14 too long.
+Net ___RS485_RS422_P with allias 2 too long.
+Net ___RS485_RS485_N with allias 3 too long.
+Net ___RS485_RS485_P with allias 4 too long.
+Net __RS485_RS422_N with allias 5 too long.
+Net __RS485_RS422_P with allias 6 too long.
+Net __RS485_RS485_N with allias 7 too long.
+Net __RS485_RS485_P with allias 8 too long.
+Net RS485_EN_ISO_RS422 with allias 9 too long.
+Component Designator TBU1_RS422 too long.
+Component Designator TBU1_RS485 too long.
+Component Designator TBU2_RS422 too long.
+Component Designator TBU2_RS485 too long.
+Component Designator IC4_CH_1 too long.
+Component Designator IC4_CH_2 too long.
+Component Designator TP10_RS422 too long.
+Component Designator TISP2_RS422 too long.
+Component Designator TBU2_RS422 too long.
+Component Designator TP8_RS422 too long.
+Component Designator TISP1_RS422 too long.
+Component Designator TBU1_RS422 too long.
+Component Designator TP10_RS485 too long.
+Component Designator TISP2_RS485 too long.
+Component Designator TBU2_RS485 too long.
+Component Designator TP8_RS485 too long.
+Component Designator TISP1_RS485 too long.
+Component Designator TBU1_RS485 too long.
+Component Designator TBU2_RS422 too long.
+Component Designator TVS1_RS422 too long.
+Component Designator CM1_RS422 too long.
+Component Designator TBU1_RS422 too long.
+Component Designator TVS1_RS422 too long.
+Component Designator CM1_RS422 too long.
+Component Designator TBU2_RS485 too long.
+Component Designator TVS1_RS485 too long.
+Component Designator CM1_RS485 too long.
+Component Designator TBU1_RS485 too long.
+Component Designator TVS1_RS485 too long.
+Component Designator CM1_RS485 too long.
+Component Designator CM1_RS422 too long.
+Component Designator C6_RS422 too long.
+Component Designator R9_RS422 too long.
+Component Designator C5_RS422 too long.
+Component Designator CM1_RS422 too long.
+Component Designator R8_RS422 too long.
+Component Designator C6_RS485 too long.
+Component Designator R9_RS485 too long.
+Component Designator CM1_RS485 too long.
+Component Designator C5_RS485 too long.
+Component Designator CM1_RS485 too long.
+Component Designator R8_RS485 too long.
+Warning pad shape change for L1-1 from  to rectangular 2.75mm,1.75mm
+Pad name A4/B9 too long.
+Pad name A9/B4 too long.
+Pad name Shell too long.
+Pad name Shell too long.
+Pad name Shell too long.
+Pad name Shell too long.
+Component Designator TP9_CH_1 too long.
+Component Designator TP9_CH_2 too long.
+Component Designator IC4_CH_1 too long.
+Component Designator IC4_CH_1 too long.
+Component Designator C10_CH_1 too long.
+Component Designator IC4_CH_2 too long.
+Component Designator IC4_CH_2 too long.
+Component Designator IC4_CH_2 too long.
+Component Designator C10_CH_2 too long.
+Pad name A1/B12 too long.
+Pad name A12/B1 too long.
+Component Designator TP12_CH_2 too long.
+Component Designator TISP1_RS422 too long.
+Component Designator TISP2_RS422 too long.
+Component Designator TVS1_RS422 too long.
+Component Designator C12_RS422 too long.
+Component Designator IC5_RS422 too long.
+Component Designator IC4_CH_2 too long.
+Component Designator IC4_CH_2 too long.
+Component Designator IC4_CH_2 too long.
+Component Designator IC2_RS422 too long.
+Component Designator C11_CH_2 too long.
+Component Designator C5_RS422 too long.
+Component Designator C6_RS422 too long.
+Component Designator R10_RS422 too long.
+Component Designator TP12_CH_1 too long.
+Component Designator TISP1_RS485 too long.
+Component Designator TISP2_RS485 too long.
+Component Designator TVS1_RS485 too long.
+Component Designator IC4_CH_1 too long.
+Component Designator IC4_CH_1 too long.
+Component Designator IC4_CH_1 too long.
+Component Designator IC5_RS485 too long.
+Component Designator C12_RS485 too long.
+Component Designator IC2_RS485 too long.
+Component Designator C6_RS485 too long.
+Component Designator C11_CH_1 too long.
+Component Designator R10_RS485 too long.
+Component Designator C5_RS485 too long.
+Component Designator IC4_CH_1 too long.
+Component Designator IC4_CH_2 too long.
+Component Designator IC4_CH_2 too long.
+Component Designator IC5_RS422 too long.
+Component Designator R7_RS422 too long.
+Component Designator IC5_RS485 too long.
+Component Designator R7_RS485 too long.
+Component Designator R11_RS422 too long.
+Component Designator IC4_CH_2 too long.
+Component Designator IC5_RS422 too long.
+Component Designator R11_RS422 too long.
+Component Designator IC4_CH_1 too long.
+Component Designator R11_RS485 too long.
+Component Designator IC5_RS485 too long.
+Component Designator R11_RS485 too long.
+Component Designator IC4_CH_2 too long.
+Component Designator IC2_RS422 too long.
+Component Designator IC2_RS422 too long.
+Component Designator IC4_CH_1 too long.
+Component Designator IC2_RS485 too long.
+Component Designator IC2_RS485 too long.
+Component Designator R9_RS422 too long.
+Component Designator IC2_RS422 too long.
+Component Designator R10_RS422 too long.
+Component Designator R7_RS422 too long.
+Component Designator R8_RS422 too long.
+Component Designator IC5_RS422 too long.
+Component Designator IC2_RS422 too long.
+Component Designator R6_RS422 too long.
+Component Designator IC2_RS485 too long.
+Component Designator R9_RS485 too long.
+Component Designator R7_RS485 too long.
+Component Designator R10_RS485 too long.
+Component Designator IC5_RS485 too long.
+Component Designator IC2_RS485 too long.
+Component Designator R8_RS485 too long.
+Component Designator R6_RS485 too long.
+Component Designator IC4_CH_2 too long.
+Component Designator IC2_RS422 too long.
+Component Designator IC4_CH_1 too long.
+Component Designator IC2_RS485 too long.
+Component Designator IC4_CH_2 too long.
+Component Designator IC2_RS422 too long.
+Component Designator IC4_CH_1 too long.
+Component Designator IC2_RS485 too long.
+Component Designator IC4_CH_1 too long.
+Component Designator IC4_CH_2 too long.
+Component Designator IC4_CH_1 too long.
+Component Designator IC4_CH_1 too long.
+Component Designator TP7_CH_1 too long.
+Component Designator TP7_CH_2 too long.
+Component Designator IC4_CH_1 too long.
+Warning pad shape change for L1-2 from  to rectangular 2.75mm,1.75mm
+Component Designator C10_CH_1 too long.
+Component Designator IC4_CH_2 too long.
+Component Designator C10_CH_2 too long.
+Component Designator TP11_CH_2 too long.
+Component Designator C12_RS422 too long.
+Component Designator IC4_CH_2 too long.
+Component Designator IC2_RS422 too long.
+Component Designator C11_CH_2 too long.
+Component Designator R6_RS422 too long.
+Component Designator TP11_CH_1 too long.
+Component Designator IC4_CH_1 too long.
+Component Designator C12_RS485 too long.
+Component Designator IC2_RS485 too long.
+Component Designator C11_CH_1 too long.
+Component Designator R6_RS485 too long.
