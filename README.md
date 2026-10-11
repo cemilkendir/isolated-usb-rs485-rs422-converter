@@ -28,13 +28,32 @@ The hardware was designed with industrial communication environments and EMC rob
 ## Pic:
 A2_Hardware/PCB_0110_01_AA/out/50_pic
 
-<img src="https://github.com/cemilkendir/isolated-usb-rs485-rs422-converter/A2_Hardware/PCB_0110_01_AA/out/50_pic/001.PNG" width="800px"/> 
-<img src="https://github.com/cemilkendir/PCB_15122020_01CA/blob/main/Photos/Photo02.PNG" width="800px"/> 
-<img src="https://github.com/cemilkendir/PCB_15122020_01CA/blob/main/Photos/Photo03.PNG" width="800px"/> 
-<img src="https://github.com/cemilkendir/PCB_15122020_01CA/blob/main/Photos/Photo04.PNG" width="800px"/>
-<img src="https://github.com/cemilkendir/PCB_15122020_01CA/blob/main/Photos/Photo05.PNG" width="800px"/> 
-<img src="https://github.com/cemilkendir/PCB_15122020_01CA/blob/main/Photos/Photo06.PNG" width="800px"/> 
-<img src="https://github.com/cemilkendir/PCB_15122020_01CA/blob/main/Photos/Photo07.PNG" width="800px"/> 
+
+<img src="https://github.com/cemilkendir/isolated-usb-rs485-rs422-converter/A2_Hardware/PCB_0110_01_AA/out/50_pic/001_PCB.PNG" width="800px"/> 
+
+<img src="https://github.com/cemilkendir/isolated-usb-rs485-rs422-converter/A2_Hardware/PCB_0110_01_AA/out/50_pic/002_PCB.PNG" width="800px"/> 
+
+<img src="https://github.com/cemilkendir/isolated-usb-rs485-rs422-converter/A2_Hardware/PCB_0110_01_AA/out/50_pic/003_PCB.PNG" width="800px"/> 
+
+<img src="https://github.com/cemilkendir/isolated-usb-rs485-rs422-converter/A2_Hardware/PCB_0110_01_AA/out/50_pic/004_PCB.PNG" width="800px"/>
+ 
+<img src="https://github.com/cemilkendir/isolated-usb-rs485-rs422-converter/A2_Hardware/PCB_0110_01_AA/out/50_pic/005_PCB.PNG" width="800px"/>
+ 
+<img src="https://github.com/cemilkendir/isolated-usb-rs485-rs422-converter/A2_Hardware/PCB_0110_01_AA/out/50_pic/006_PCB.PNG" width="800px"/>
+ 
+<img src="https://github.com/cemilkendir/isolated-usb-rs485-rs422-converter/A2_Hardware/PCB_0110_01_AA/out/50_pic/007_PCB.PNG" width="800px"/> 
+
+<img src="https://github.com/cemilkendir/isolated-usb-rs485-rs422-converter/A3_Mechanic/MCH_0110_01_AA/Pic/001.PNG" width="800px"/> 
+
+<img src="https://github.com/cemilkendir/isolated-usb-rs485-rs422-converter/A3_Mechanic/MCH_0110_01_AA/Pic/002.PNG" width="800px"/> 
+
+<img src="https://github.com/cemilkendir/isolated-usb-rs485-rs422-converter/A3_Mechanic/MCH_0110_01_AA/Pic/003.PNG" width="800px"/> 
+
+<img src="https://github.com/cemilkendir/isolated-usb-rs485-rs422-converter/A3_Mechanic/MCH_0110_01_AA/Pic/004.PNG" width="800px"/> 
+
+<img src="https://github.com/cemilkendir/isolated-usb-rs485-rs422-converter/A3_Mechanic/MCH_0110_01_AA/Pic/005.PNG" width="800px"/> 
+
+<img src="https://github.com/cemilkendir/isolated-usb-rs485-rs422-converter/A3_Mechanic/MCH_0110_01_AA/Pic/006.PNG" width="800px"/> 
 
 ## System Architecture
 
