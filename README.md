@@ -25,6 +25,16 @@ The hardware was designed with industrial communication environments and EMC rob
 
 ---
 
+## Pic:
+
+<img src="https://github.com/cemilkendir/isolated-usb-rs485-rs422-converter/A2_Hardware/PCB_0110_01_AA/out/40_Mechanical/001.PNG" width="800px"/> 
+<img src="https://github.com/cemilkendir/PCB_15122020_01CA/blob/main/Photos/Photo02.PNG" width="800px"/> 
+<img src="https://github.com/cemilkendir/PCB_15122020_01CA/blob/main/Photos/Photo03.PNG" width="800px"/> 
+<img src="https://github.com/cemilkendir/PCB_15122020_01CA/blob/main/Photos/Photo04.PNG" width="800px"/>
+<img src="https://github.com/cemilkendir/PCB_15122020_01CA/blob/main/Photos/Photo05.PNG" width="800px"/> 
+<img src="https://github.com/cemilkendir/PCB_15122020_01CA/blob/main/Photos/Photo06.PNG" width="800px"/> 
+<img src="https://github.com/cemilkendir/PCB_15122020_01CA/blob/main/Photos/Photo07.PNG" width="800px"/> 
+
 ## System Architecture
 
 ```text
@@ -41,7 +51,7 @@ The hardware was designed with industrial communication environments and EMC rob
               │                           │
        Digital Isolation           Digital Isolation
               │                           │
-              │                    Isolated Power
+        Isolated Power              Isolated Power
               │                           │
               └─────────────┬─────────────┘
                             │
@@ -54,7 +64,7 @@ The hardware was designed with industrial communication environments and EMC rob
                │                         │
           Protection                 Protection
                │                         │
-             A / B                   TX / RX Pairs
+             A / B                   RX Pairs
 ```
 
 ---
